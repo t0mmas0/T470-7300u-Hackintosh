@@ -1,4 +1,4 @@
-# T470-7300u-Hackintosh
+# T470-7300u-Hackintosh-Clover-Catalina
 Efi folder for t470 Catalina Hackintosh
 
 What works:
